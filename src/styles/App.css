@@ -1,0 +1,14 @@
+.app-container {
+  padding: 50px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.login-page {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}

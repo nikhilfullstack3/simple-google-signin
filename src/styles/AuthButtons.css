@@ -1,0 +1,50 @@
+.google-signin-button {
+  background-color: #4285f4;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s;
+  outline: none;
+  margin-top: 20px;
+}
+
+.google-signin-button:hover {
+  background-color: #357ae8;
+}
+
+.google-signin-button:active {
+  background-color: #3367d6;
+}
+
+.google-logo {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.logout-button {
+  background-color: #ea4335;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  outline: none;
+  margin-top: 20px;
+}
+
+.logout-button:hover {
+  background-color: #c1351d;
+}
+
+.logout-button:active {
+  background-color: #b12d1d;
+}
